@@ -31,5 +31,5 @@ A modern, interactive AI-powered To-Do List app that lets you **chat** with an a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ai-chat-todo.git
+   git clone https://github.com/LaganMehtaJi/To-do-Ai.git
    cd ai-chat-todo
